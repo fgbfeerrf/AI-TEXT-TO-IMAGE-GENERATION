@@ -1,8 +1,3 @@
-# AI-TEXT-TO-IMAGE-GENERATION
-The AI Text-to-Image Generator is a web-based application that converts user text prompts into stunning images using advanced models like Stable Diffusion and FLUX via Hugging Face APIs. It features real-time generation, customization options (aspect ratio, image count), and a user-friendly, responsive interface, showcasing AI's creative potential.
-Here's a draft for your project's **README.md** file, tailored to your AI Text-to-Image Generator project:
-
----
 
 # AI Text-to-Image Generator
 
@@ -30,7 +25,7 @@ This project is a web-based application that converts user-provided text prompts
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ai-text-to-image-generator.git
+   git clone https://github.com/fgbfeerrf/AI-TEXT-TO-IMAGE-GENERATION.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
